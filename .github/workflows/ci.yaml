@@ -7,11 +7,8 @@ on:
     branches: [ main ]
 
 jobs:
-
   build:
-
     runs-on: ubuntu-latest
-
     steps:
       - name: Just echo test message
         run: echo "Test message to collection test:$(date +%s)"
