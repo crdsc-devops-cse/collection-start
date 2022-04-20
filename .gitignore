@@ -1,5 +1,5 @@
-#InteliJ
-.idea/*
+# InteliJ
+.idea
 # Compiled class file
 *.class
 
