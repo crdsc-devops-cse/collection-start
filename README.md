@@ -5,4 +5,4 @@ Running application deployments from the list
 
 
 ----------------------------------------------
-(c) Vadim Poyad=skov, 2022
+(c) Vadim Poyaskov, 2022
